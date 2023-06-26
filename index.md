@@ -6,15 +6,11 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi, my name is Leonard Francis Vibbi. As a graduate student at MIT Media Lab and a Research Assistant at MIT GOV/LAB, I am passionate about using digital technology to promote innovation in the public and humanitarian sectors. My research interests revolve around data engagement and ethics for communities in the global south. 
-
-Currently, I am focused on developing a community-driven data engagement framework that ensures local communities' continued participation and involvement in humanitarian data collection. By prioritizing community values, we can create a more ethical and sustainable approach to data collection. 
-
-In addition to my academic pursuits, I have extensive experience working across various African countries. Through my collaboration with government agencies and civil society organizations, I have designed and developed civic technology tools that promote e-government and open data. My dedication to public interest technology innovation drives me to continue pushing boundaries and finding innovative solutions to the world's most pressing problems, particularly in the Global South. 
+Hi, my name is Leonard Francis Vibbi. As a graduate student at MIT Media Lab and a Research Assistant at MIT GOV/LAB, I am passionate about using digital technology to promote innovation in the public and humanitarian sectors. My research interests revolve around the intersection of data engagement and ethics for communities in the global south, particularly looking at how ethical value-driven social, public, and humanitarian goods can be derived from data, including its applications in artificial intelligence.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My current research focuses on developing a data governance framework that prioritizes community values. This project aims to enable continuous community participation across all levels of data collection and processing. I believe this approach can help us collect data more ethically and sustainably. Alongside my academic work, I have had the opportunity to work across various African countries, collaborating with government agencies and civil society organizations to design and develop civic technology tools. These tools aid in promoting e-government and open data. My passion for public interest technology innovation drives me to continue finding innovative solutions to the world's most pressing problems. The Global South is particularly interesting to me as these problems can be especially acute in this region.
 
 ## Publications
 
