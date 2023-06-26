@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi, my name is Leonard Francis Vibbi. As a graduate student at MIT Media Lab and a Research Assistant at MIT GOV/LAB, I am passionate about using digital technology to promote innovation in the public and humanitarian sectors. My research interests revolve around data engagement and ethics for communities in the global south. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Currently, I am focused on developing a community-driven data engagement framework that ensures local communities' continued participation and involvement in humanitarian data collection. By prioritizing community values, we can create a more ethical and sustainable approach to data collection. 
+
+In addition to my academic pursuits, I have extensive experience working across various African countries. Through my collaboration with government agencies and civil society organizations, I have designed and developed civic technology tools that promote e-government and open data. My dedication to public interest technology innovation drives me to continue pushing boundaries and finding innovative solutions to the world's most pressing problems, particularly in the Global South. 
 
 ## Research Interest
 
